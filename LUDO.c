@@ -479,3 +479,4 @@ int main(){
 	return 0;
 }
 
+//Eu estive aqui \(*_*)/ \(*_*)/ \(*_*)/
